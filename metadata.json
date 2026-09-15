@@ -1,0 +1,6 @@
+{
+  "name": "Mersa Signage",
+  "description": "Professional illuminated lightbox signage operations, pricing engine, site surveys, and business management system for Mersa corridor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
